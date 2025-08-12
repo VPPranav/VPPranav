@@ -1,8 +1,8 @@
 <div align="center">
 
-<!-- Animated Header -->
+
 <!-- Profile Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:007BFF&height=300&section=header&text=Pranav%20V%20P&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FullStack%20Developer%20%26%20AI%20Innovator&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00C4CC&height=200&section=header&text=Hi%20there!%20I'm%20Pranav%20V%20P%20👋&fontSize=30&fontColor=ffffff" width="100%"/>
 
 
 <!-- Typing Animation -->
