@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:007BFF&height=300&section=header&text=Pranav%20V%20P&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%26%20AI%20Innovator&descAlignY=55&descSize=20" width="100%"/>
+<!-- Profile Banner -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00C4CC&height=200&section=header&text=Hi%20there!%20I'm%20Pranav%20V%20P%20👋&fontSize=30&fontColor=ffffff)
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Building+the+Future+with+AI+%F0%9F%A4%96;Crafting+Intelligent+Solutions+%E2%9A%A1" alt="Typing SVG" />
