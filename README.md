@@ -172,11 +172,6 @@ Passion: ML × Web Development = Magic ✨
 
 <div align="center">
 
-### 🌤️ [AI Weather App](https://github.com/VPPranav/AI-Powered-Weather-App)
-> **Next-gen weather intelligence platform**
-
-🎯 **Features:** Real-time data • AI insights • Modern UI  
-🔧 **Tech:** Next.js 15 • AI APIs • Weather Services
 
 ---
 
