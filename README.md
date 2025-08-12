@@ -2,7 +2,7 @@
 
 <!-- Animated Header -->
 <!-- Profile Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00C4CC&height=200&section=header&text=Hi%20there!%20I'm%20Pranav%20V%20P%20👋&fontSize=30&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00C4CC&height=200&section=header&text=Hi%20there!%20I'm%20Pranav%20V%20P%20&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=65&desc=Let's%20build%20the%20future%20togeteer%20%F0%9F%9A%80&descAlignY=80&descSize=16" width="100%")
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=W!Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Building+the+Future+with+AI+%F0%9F%A4%96;Crafting+Intelligent+Solutions+%E2%9A%A1" alt="Typing SVG" />
