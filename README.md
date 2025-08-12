@@ -191,44 +191,10 @@ Passion: ML × Web Development = Magic ✨
 
 ## 📊 **PERFORMANCE METRICS** 📊
 
-<div align="center">
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
+
 ![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VPPranav&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VPPranav&layout=compact&theme=tokyonight) 
-</div>
 
-<div align="center">
-
-<!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.demolab.com?user=VPPranav&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-
-</div>
-
-
----
-
-<div align="center">
-
-## 🌱 **CURRENT MISSIONS** 🌱
-
-</div>
-
-<div align="center">
-
-\`\`\`mermaid
-graph LR
-    A[🤖 Advanced AI Agents] --> B[🧠 LLM Applications]
-    B --> C[📊 Real-time Dashboards]
-    C --> D[🚀 Next-Gen Solutions]
-    
-    style A fill:#FF6B6B
-    style B fill:#4ECDC4
-    style C fill:#45B7D1
-    style D fill:#96CEB4
-\`\`\`
-
-</div>
 
 <table align="center">
 <tr>
