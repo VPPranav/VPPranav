@@ -5,7 +5,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00C4CC&height=200&section=header&text=Hi%20there!%20I'm%20Pranav%20V%20P%20👋&fontSize=30&fontColor=ffffff)
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=WWelcome+to+my+Digital+Universe+%F0%9F%8C%8C;Building+the+Future+with+AI+%F0%9F%A4%96;Crafting+Intelligent+Solutions+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=W!Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Building+the+Future+with+AI+%F0%9F%A4%96;Crafting+Intelligent+Solutions+%E2%9A%A1" alt="Typing SVG" />
 
 </div>
 
