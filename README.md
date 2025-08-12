@@ -192,13 +192,10 @@ Passion: ML × Web Development = Magic ✨
 ## 📊 **PERFORMANCE METRICS** 📊
 
 <div align="center">
-
 <!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VPPranav&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="Pranav's GitHub stats"/>
-
-<!-- Top Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VPPranav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages"/>
-
+## 📊 GitHub Stats
+![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VPPranav&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VPPranav&layout=compact&theme=tokyonight) 
 </div>
 
 <div align="center">
