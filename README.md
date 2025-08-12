@@ -256,7 +256,6 @@ Passion: ML × Web Development = Magic ✨
 <!-- Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=65&desc=Let's%20build%20the%20future%20together%20%F0%9F%9A%80&descAlignY=80&descSize=16" width="100%"/>
 
-<!-- Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=VPPranav&style=for-the-badge&color=00D9FF&labelColor=000000" alt="Profile Views"/>
+
 
 </div>
