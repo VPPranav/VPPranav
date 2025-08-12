@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pranav V P</h1>
 <h3 align="center">A passionate ML Enthusiast and frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vppranav&label=Profile%20views&color=0e75b6&style=flat" alt="vppranav" /> </p>
+
 - 👨‍💻 All of my projects are available at [pranavvp-myportfolio.onrender.com](pranavvp-myportfolio.onrender.com)
 
 - 📫 How to reach me **pranavvp1507@gmail.com**
@@ -17,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vppranav&show_icons=true&locale=en" alt="vppranav" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vppranav&" alt="vppranav" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vppranav&theme=dark" alt="vppranav" /></p>
