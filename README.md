@@ -29,7 +29,7 @@ Role: Full-Stack Developer & ML Enthusiast
 Status: Building Tomorrow's Solutions Today
 Location: Digital Realm 🌐
 Passion: ML × Web Development = Magic ✨
-\`\`\`
+
 
 ### 🎯 **Core Directives**
 - 🔮 Transform ideas into intelligent applications
