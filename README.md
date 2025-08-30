@@ -24,7 +24,6 @@
 <td width="50%">
 
 ### 🚀 **Mission Control**
-\`\`\`yaml
 Name: Pranav V P
 Role: Full-Stack Developer & ML Enthusiast
 Status: Building Tomorrow's Solutions Today
