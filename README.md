@@ -52,11 +52,12 @@ Passion: ML × Web Development = Magic ✨
 </div>
 
 ### 🎓 **Knowledge Arsenal**
-- 🎯 Frontend Web Development (Udemy)
-- 🤖 Supervised Machine Learning (Scaler)
-- 📊 Project Management (Great Learning)
-- 🔬 Data Science Foundations (Cisco)
-- 📈 Strategy & Visualization (IIT Madras)
+- 🎯 Full-Stack Web Development 
+- 🤖 AI & ML 
+- 📊 Project Management 
+- 🔬 Data Science
+- 📈 Strategy & Visualization 
+- 🧠 Generative AI
 
 </td>
 </tr>
