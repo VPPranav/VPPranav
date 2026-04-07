@@ -45,7 +45,7 @@ Passion: ML × Web Development = Magic ✨
 
 [![Portfolio](https://img.shields.io/badge/🌟_PORTFOLIO-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://pranavvp-myportfolio.vercel.app)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-vp-3636b825a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-v-p-3636b825a/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VPPranav)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavvp1507@gmail.com)
 
