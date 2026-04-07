@@ -21,49 +21,54 @@
 
 <div align="center">
 
-## 🌟 **ABOUT THE ARCHITECT** 🌟
+## `> whoami`
 
 </div>
 
 <table align="center">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚀 **Mission Control**
-Name: Pranav V P
-Role: Full-Stack Developer & ML Enthusiast
-Status: Building Tomorrow's Solutions Today
-Location: Digital Realm 🌐
-Passion: ML × Web Development = Magic ✨
+**Name** &nbsp;&nbsp;&nbsp; Pranav V P
+**Role** &nbsp;&nbsp;&nbsp;&nbsp; AI / ML Engineer & Full Stack Developer
+**Status** &nbsp; Building real-world AI products
+**Focus** &nbsp;&nbsp;&nbsp; ML × Web Development
 
+<br/>
 
-### 🎯 **Core Directives**
-- 🔮 Transform ideas into intelligent applications
-- 🌊 Navigate the intersection of AI and web tech
-- 🚀 Push boundaries of what's possible
-- 💡 Solve real-world problems with code
+**Core Directives**
+```txt
+→ Transform ideas into intelligent applications
+→ Navigate the intersection of AI and web tech
+→ Push boundaries of what's possible
+→ Solve real-world problems with code
+```
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 **Digital Presence**
+**Connect**
+
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌟_PORTFOLIO-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://pranavvp-myportfolio.vercel.app)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-v-p-3636b825a/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VPPranav)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavvp1507@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-080C10?style=for-the-badge&logo=vercel&logoColor=00DCA0)](https://pranavvp-myportfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-080C10?style=for-the-badge&logo=linkedin&logoColor=60B4FF)](https://www.linkedin.com/in/pranav-v-p-3636b825a/)
+[![GitHub](https://img.shields.io/badge/GitHub-080C10?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/VPPranav)
+[![Email](https://img.shields.io/badge/Email-080C10?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:pranavvp1507@gmail.com)
 
 </div>
 
-### 🎓 **Knowledge Arsenal**
-- 🎯 Full-Stack Web Development 
-- 🤖 AI & ML 
-- 📊 Project Management 
-- 🔬 Data Science
-- 📈 Strategy & Visualization 
-- 🧠 Generative AI
+<br/>
+
+**Knowledge Arsenal**
+```txt
+◈  Full-Stack Web Development
+◈  AI & Machine Learning
+◈  Data Science & Analytics
+◈  Generative AI
+◈  Strategy & Visualization
+◈  Project Management
+```
 
 </td>
 </tr>
