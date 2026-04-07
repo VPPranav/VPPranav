@@ -126,6 +126,40 @@ Passion: ML × Web Development = Magic ✨
 <tr>
 <td width="50%">
 
+### 🧠 [Documa — Document Intelligence Platform](https://github.com/VPPranav/Documa-Document_Intelligence_Platform)
+
+> **AI-powered platform to transform documents into actionable insights**
+
+🎯 **Features:**
+
+* 📄 AI-driven document chat with contextual Q&A & citations
+* 📊 Interactive CSV analytics with auto-generated visualizations
+* 🧠 Named Entity Recognition & knowledge graph generation
+* 🔍 Semantic search, summaries & document insights
+* 🔐 Secure authentication with Supabase & session management
+* 📁 Multi-format document upload (PDF, DOCX, Images, CSV)
+
+🔧 **Tech:** React.js • Node.js • Express • Supabase • Google Gemini • Tailwind CSS • Recharts 
+
+---
+
+### 🚦 [TransitFlow AI](https://github.com/VPPranav/Transitflow_AI-Real_Time_Transit_Delay_Prediction_System)
+
+> **Real-time transit delay prediction with ML ensemble + AI reasoning + 3D visualization**
+
+🎯 **Features:**
+
+* ⏱️ Real-time delay prediction using ensemble ML model (24+ features)
+* 🧠 AI second-layer reasoning for risk scoring, recommendations & insights
+* 🗺️ 3D animated transit network with congestion & weather simulation
+* 📊 Advanced analytics suite (9 charts + 3D heatmap + risk dashboards)
+* ⚡ Sub-3 second predictions with fallback local model
+* 📈 Optimal departure insights, SLA flags & cascade effect analysis
+
+🔧 **Tech:** React.js • TypeScript • FastAPI • scikit-learn • Tailwind CSS • Recharts • Claude AI 
+
+---
+
 ### 🧠 [EmotiSense AI](https://github.com/VPPranav/EmotiSense-Face-Speech-Emotion-Recognition-Platform-for-Autism-Support-with-Conversational-Chatbot)
 > **Revolutionary dual-modal emotion recognition platform**
 
@@ -139,40 +173,20 @@ Passion: ML × Web Development = Magic ✨
 
 ---
 
-### 🔍 [Material Recognizer](https://github.com/VPPranav/Material-Recognizer-Web-App-Using-CNN)
-> **Smart recyclable material classification**
+### 🛡️ [PhishGuard Pro](https://github.com/VPPranav/PhishGuard-Pro-Advanced-ML-Framework-for-Email-And-URL-Phishing-Detection)
+
+> **Advanced ML-powered phishing detection system for emails, URLs & real-time browsing**
 
 🎯 **Features:**
-- 🧠 CNN-powered classification
-- 📊 Confidence scoring
-- ♻️ Environmental impact
 
-🔧 **Tech:** Flask • TensorFlow • MobileNetV2
+* 📧 Email phishing detection using NLP + CMAF hybrid features
+* 🔗 URL phishing detection with engineered + statistical features
+* 🔀 Hybrid fusion model for context-aware threat detection
+* 🌐 Chrome extension for real-time URL safety analysis
+* 📊 Analytics dashboard, user history & PDF report generation
+* 🔐 Secure authentication with MongoDB-backed system
 
-</td>
-<td width="50%">
-
-### 👤 [Face Recognition Attendance](https://github.com/VPPranav/Face-Recognition-Based-Attendance-System)
-> **Automated attendance management system**
-
-🎯 **Features:**
-- 👁️ Real-time face recognition
-- 📊 Automated tracking
-- 🎯 High accuracy detection
-
-🔧 **Tech:** OpenCV • scikit-learn • Streamlit
-
----
-
-### 🛡️ [Advanced Phishing Detection](https://github.com/VPPranav/VPs-Cleaning-Services-WebApp-with-AI-Agent)
-> **ML-powered security solution**
-
-🎯 **Features:**
-- 📧 Email threat detection
-- 🌐 Website analysis
-- 🤖 Heuristic algorithms
-
-🔧 **Tech:** Flask • Machine Learning • Security APIs
+🔧 **Tech:** Flask • FastAPI • scikit-learn • MongoDB • JavaScript • Chrome Extensions • TF-IDF • SHAP/LIME 
 
 </td>
 </tr>
