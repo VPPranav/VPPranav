@@ -214,11 +214,11 @@ Passion: ML × Web Development = Magic ✨
 <tr>
 
 <td>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VPPranav&show_icons=true&theme=tokyonight" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VPPranav&theme=tokyonight" />
 </td>
 
 <td>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VPPranav&layout=compact&theme=tokyonight" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VPPranav&theme=tokyonight" />
 </td>
 
 </tr>
