@@ -1,20 +1,4 @@
-<div align="center">
-
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Pranav%20V%20P&descAlignY=60&descAlign=50&fontColor=ffffff" width="100%"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00C4CC&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Full+Stack+Developer;Building+Real-World+AI+Products;Open+to+Opportunities" />
-
-</div>
-
-
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=W!Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Building+the+Future+with+AI+%F0%9F%A4%96;Crafting+Intelligent+Solutions+%E2%9A%A1" alt="Typing SVG" />
-
-</div>
-
+<img width="1440" height="584" alt="image" src="https://github.com/user-attachments/assets/9cd4b0e4-8d8b-4f7d-83da-d150aa573c64" />
 
 ---
 
