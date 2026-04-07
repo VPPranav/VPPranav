@@ -124,72 +124,77 @@ Passion: ML × Web Development = Magic ✨
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 🧠 [Documa — Document Intelligence Platform](https://github.com/VPPranav/Documa-Document_Intelligence_Platform)
 
 > **AI-powered document analysis & chat platform**
 
 🎯 **Features:**
+- 📄 Context-aware document Q&A  
+- 📊 CSV analytics & visualizations  
+- 🧠 NER & knowledge graph insights  
+- 🔍 Semantic search & summaries  
 
-* 📄 Context-aware document Q&A
-* 📊 CSV analytics & visualizations
-* 🧠 NER & knowledge graph insights
-* 🔍 Semantic search & summaries
+🔧 **Tech:** React.js • Node.js • Supabase • Gemini  
 
-🔧 **Tech:** React.js • Node.js • Supabase • Gemini
+</td>
 
----
+<td width="50%" valign="top">
 
 ### 🚦 [TransitFlow AI](https://github.com/VPPranav/Transitflow_AI-Real_Time_Transit_Delay_Prediction_System)
 
 > **Real-time transit delay prediction system**
 
 🎯 **Features:**
+- ⏱️ ML-based delay prediction  
+- 🧠 AI-driven risk analysis  
+- 🗺️ 3D transit visualization  
+- 📊 Advanced analytics dashboards  
 
-* ⏱️ ML-based delay prediction
-* 🧠 AI-driven risk analysis
-* 🗺️ 3D transit visualization
-* 📊 Advanced analytics dashboards
+🔧 **Tech:** React.js • FastAPI • scikit-learn • Claude AI  
 
-🔧 **Tech:** React.js • FastAPI • scikit-learn • Claude AI
+</td>
 
----
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🧠 [EmotiSense AI](https://github.com/VPPranav/EmotiSense-Face-Speech-Emotion-Recognition-Platform-for-Autism-Support-with-Conversational-Chatbot)
 
 > **Dual-modal emotion recognition platform**
 
 🎯 **Features:**
+- 📹 Facial emotion detection  
+- 🎤 Speech emotion analysis  
+- 🤖 Conversational chatbot  
+- ♿ Autism support system  
 
-* 📹 Facial emotion detection
-* 🎤 Speech emotion analysis
-* 🤖 Conversational chatbot
-* ♿ Autism support system
+🔧 **Tech:** React.js • Flask • TensorFlow • WebRTC  
 
-🔧 **Tech:** React.js • Flask • TensorFlow • WebRTC
+</td>
 
----
+<td width="50%" valign="top">
 
 ### 🛡️ [PhishGuard Pro](https://github.com/VPPranav/PhishGuard-Pro-Advanced-ML-Framework-for-Email-And-URL-Phishing-Detection)
 
 > **ML-powered phishing detection system**
 
 🎯 **Features:**
+- 📧 Email phishing detection  
+- 🔗 URL threat analysis  
+- 🔀 Hybrid detection model  
+- 🌐 Browser extension integration  
 
-* 📧 Email phishing detection
-* 🔗 URL threat analysis
-* 🔀 Hybrid detection model
-* 🌐 Browser extension integration
-
-🔧 **Tech:** Flask • FastAPI • scikit-learn • MongoDB
+🔧 **Tech:** Flask • FastAPI • scikit-learn • MongoDB  
 
 </td>
+
 </tr>
 </table>
-
-<div align="center">
-
 
 ---
 
