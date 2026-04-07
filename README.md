@@ -20,9 +20,9 @@
 </div>
 
 <div align="center">
-</div>
 
 ## 🌟 **ABOUT THE ARCHITECT** 🌟
+</div>
 <table align="center">
 <tr>
 <td width="50%">
