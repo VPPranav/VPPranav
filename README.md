@@ -1,5 +1,23 @@
-<img width="1440" height="584" alt="image" src="https://github.com/user-attachments/assets/9cd4b0e4-8d8b-4f7d-83da-d150aa573c64" />
+<div align="center">
 
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080C10,50:0d1f2d,100:080C10&height=200&section=header&text=Pranav%20V%20P&fontSize=62&fontColor=ffffff&fontAlignY=45&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Full%20Stack%20Dev%20%E2%80%A2%20AI%20Product%20Builder&descSize=15&descAlignY=68&descColor=00DCA0&animation=fadeIn" width="100%" />
+
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=3000&pause=1000&color=00DCA0&center=true&vCenter=true&width=600&lines=Training+models+that+actually+ship...;Crafting+intelligent+web+experiences...;Turning+research+into+real+products...;Exploring+the+frontier+of+AI%2FML..." alt="Typing SVG" />
+
+<!-- Badges -->
+<p>
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML%20Engineer-00DCA0?style=flat-square&labelColor=080C10&color=00DCA0&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Dev-60B4FF?style=flat-square&labelColor=080C10&color=60B4FF&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Product%20Builder-C084FC?style=flat-square&labelColor=080C10&color=C084FC&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Turning%20Ideas%20Into%20Reality-8899AA?style=flat-square&labelColor=080C10&color=8899AA&logo=rocket&logoColor=white" />
+</p>
+
+<!-- Status -->
+![Status](https://img.shields.io/badge/●%20Building%20real--world%20AI%20solutions-00DCA0?style=flat-square&labelColor=080C10&color=00DCA0)
+
+</div>
 ---
 
 <div align="center">
