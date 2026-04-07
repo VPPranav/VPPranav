@@ -210,9 +210,21 @@ Passion: ML × Web Development = Magic ✨
 
 ## 📊 **PERFORMANCE METRICS** 📊
 
+<table>
+<tr>
 
-![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VPPranav&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VPPranav&layout=compact&theme=tokyonight) 
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=VPPranav&show_icons=true&theme=tokyonight" />
+</td>
+
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VPPranav&layout=compact&theme=tokyonight" />
+</td>
+
+</tr>
+</table>
+
+</div>
 
 
 <table align="center">
