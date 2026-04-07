@@ -46,7 +46,7 @@ Passion: ML × Web Development = Magic ✨
 </td>
 <td width="50%" valign="top">
 
-**Connect**
+**🌐 Connect**
 
 <div align="center">
 
@@ -59,15 +59,13 @@ Passion: ML × Web Development = Magic ✨
 
 <br/>
 
-**Knowledge Arsenal**
-```txt
-◈  Full-Stack Web Development
-◈  AI & Machine Learning
-◈  Data Science & Analytics
-◈  Generative AI
-◈  Strategy & Visualization
-◈  Project Management
-```
+### 🎓 **Knowledge Arsenal**
+- 🎯 Full-Stack Web Development 
+- 🤖 AI & ML 
+- 📊 Project Management 
+- 🔬 Data Science
+- 📈 Strategy & Visualization 
+- 🧠 Generative AI
 
 </td>
 </tr>
