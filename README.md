@@ -18,7 +18,6 @@
 ![Status](https://img.shields.io/badge/●%20Building%20real--world%20AI%20solutions-00DCA0?style=flat-square&labelColor=080C10&color=00DCA0)
 
 </div>
----
 
 <div align="center">
 
@@ -287,12 +286,8 @@ Passion: ML × Web Development = Magic ✨
 </div>
 
 ---
-
 <div align="center">
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=65&desc=Let's%20build%20the%20future%20together%20%F0%9F%9A%80&descAlignY=80&descSize=16" width="100%"/>
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080C10,50:0d1f2d,100:080C10&height=180&section=footer&text=Let's%20Build%20Something%20Brilliant&fontSize=28&fontColor=00DCA0&animation=fadeIn&fontAlignY=55&desc=Drop%20a%20star%20⭐%20%7C%20Open%20an%20issue%20%7C%20Let's%20collaborate&descAlignY=75&descSize=14&descColor=ffffff" width="100%" />
 
 </div>
