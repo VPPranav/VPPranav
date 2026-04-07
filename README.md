@@ -227,7 +227,7 @@ Passion: ML × Web Development = Magic ✨
 <a href="https://pranavvp-myportfolio.vercel.app">
 <img src="https://img.shields.io/badge/🌟_PORTFOLIO-FF6B6B?style=for-the-badge&logo=safari&logoColor=white&labelColor=000000"/>
 </a>
-<a href="https://linkedin.com/in/pranav-vp-3636b825a">
+<a href="https://www.linkedin.com/in/pranav-v-p-3636b825a/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/VPPranav">
