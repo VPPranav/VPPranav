@@ -127,7 +127,7 @@ Passion: ML × Web Development = Magic ✨
   <img src="https://img.shields.io/badge/VS_Code-080C10?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
   <img src="https://img.shields.io/badge/Cursor-080C10?style=for-the-badge&logo=cursor&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Claude-080C10?style=for-the-badge&logo=anthropic&logoColor=00DCA0" />
-  <img src="https://img.shields.io/badge/ChatGPT-080C10?style=for-the-badge&logo=openai&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Voiceflow-080C10?style=for-the-badge&logo=voiceflow&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Botpress-080C10?style=for-the-badge&logo=botpress&logoColor=0052CC" />
 </p>
 
