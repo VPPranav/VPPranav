@@ -197,7 +197,7 @@ Passion: ML × Web Development = Magic ✨
 </table>
 
 ---
-
+<div align="center">
 <a href="https://github.com/VPPranav?tab=repositories">
 <img src="https://img.shields.io/badge/🚀_EXPLORE_ALL_PROJECTS-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
