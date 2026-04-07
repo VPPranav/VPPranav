@@ -1,8 +1,13 @@
 <div align="center">
 
 
-<!-- Profile Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00C4CC&height=200&section=header&text=Hi%20there!%20I'm%20Pranav%20V%20P%20👋&fontSize=30&fontColor=ffffff" width="100%"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=200&section=header&text=Pranav%20V%20P&fontSize=40&fontColor=ffffff"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00C4CC&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Full+Stack+Developer;Building+Real-World+AI+Products;Open+to+Opportunities" />
+
+</div>
 
 
 <!-- Typing Animation -->
