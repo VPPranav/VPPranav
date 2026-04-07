@@ -21,28 +21,27 @@
 
 <div align="center">
 
-## `> whoami`
+## 🌟 **ABOUT THE ARCHITECT** 🌟
 
 </div>
 
 <table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-**Name** &nbsp;&nbsp;&nbsp; Pranav V P
-**Role** &nbsp;&nbsp;&nbsp;&nbsp; AI / ML Engineer & Full Stack Developer
-**Status** &nbsp; Building real-world AI products
-**Focus** &nbsp;&nbsp;&nbsp; ML × Web Development
+### 🚀 **Mission Control**
+Name: Pranav V P
+Role: Full-Stack Developer & ML Enthusiast
+Status: Building Tomorrow's Solutions Today
+Location: Digital Realm 🌐
+Passion: ML × Web Development = Magic ✨
 
-<br/>
 
-**Core Directives**
-```txt
-→ Transform ideas into intelligent applications
-→ Navigate the intersection of AI and web tech
-→ Push boundaries of what's possible
-→ Solve real-world problems with code
-```
+### 🎯 **Core Directives**
+- 🔮 Transform ideas into intelligent applications
+- 🌊 Navigate the intersection of AI and web tech
+- 🚀 Push boundaries of what's possible
+- 💡 Solve real-world problems with code
 
 </td>
 <td width="50%" valign="top">
