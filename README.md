@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Pranav%20V%20P&fontSize=42&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20Full%20Stack%20Developer&descAlignY=60&descAlign=50&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Pranav%20V%20P&descAlignY=60&descAlign=50&fontColor=ffffff" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00C4CC&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Full+Stack+Developer;Building+Real-World+AI+Products;Open+to+Opportunities" />
 
