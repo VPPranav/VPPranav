@@ -20,11 +20,9 @@
 </div>
 
 <div align="center">
-
-## 🌟 **ABOUT THE ARCHITECT** 🌟
-
 </div>
 
+## 🌟 **ABOUT THE ARCHITECT** 🌟
 <table align="center">
 <tr>
 <td width="50%">
@@ -46,8 +44,7 @@ Passion: ML × Web Development = Magic ✨
 </td>
 <td width="50%" valign="top">
 
-**🌐 Connect**
-
+### 🌐 **Connect**
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-080C10?style=for-the-badge&logo=vercel&logoColor=00DCA0)](https://pranavvp-myportfolio.vercel.app)
