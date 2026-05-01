@@ -128,6 +128,7 @@ Passion: ML × Web Development = Magic ✨
   <img src="https://img.shields.io/badge/Claude-080C10?style=for-the-badge&logo=anthropic&logoColor=00DCA0" />
   <img src="https://img.shields.io/badge/Voiceflow-080C10?style=for-the-badge&logo=voiceflow&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Botpress-080C10?style=for-the-badge&logo=botpress&logoColor=0052CC" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
 ### DevOps & Cloud
