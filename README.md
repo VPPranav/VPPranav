@@ -177,19 +177,18 @@ Passion: ML × Web Development = Magic ✨
 
 <td width="50%" valign="top">
 
-### 🚦 [TransitFlow AI](https://github.com/VPPranav/Transitflow_AI-Real_Time_Transit_Delay_Prediction_System)
+### 🔬 [DeepSearch Auto](https://github.com/your-username/AI_Web_Research_Agent)
 
-> **Real-time transit delay prediction system**
+> **Autonomous AI research platform for real-time web research and cited report generation**
 
 🎯 **Features:**
-- ⏱️ ML-based delay prediction  
-- 🧠 AI-driven risk analysis  
-- 🗺️ 3D transit visualization  
-- 📊 Advanced analytics dashboards  
 
-🔧 **Tech:** React.js • FastAPI • scikit-learn • Claude AI  
+* 🧠 Autonomous AI research planning
+* 🔍 Parallel web search & content extraction
+* 📊 Interactive citation, knowledge & confidence graphs
+* 📄 AI-generated reports with PDF/DOCX/Markdown export
 
-</td>
+🔧 **Tech:** Next.js • FastAPI • LangGraph • Claude Haiku • SerpAPI • React Flow
 
 </tr>
 
